@@ -1,0 +1,983 @@
+# Table Lists #
+Subject:
+  1: Seeking skilled adventurers,
+  2: Calling all brave heroes,
+  3: In need of a courageous party,
+  4: Join our esteemed group,
+  5: Attention, {race} {title} questgiver seeks,
+  6: Embark on a noble quest,
+  7: We require the aid of capable adventurers,
+  8: A {race} {title} seeks assistance,
+  9: Help wanted for a daring mission,
+  10: Attention adventurers, a {race} {title} requires,
+  11: In search of skilled individuals,
+  12: Seeking a talented party of adventurers,
+  13: Join forces with a reputable {race} {title},
+  14: Heroes for an epic quest,
+  15: In need of a formidable group,
+  16: Attention, {race} {title} offers a quest to,
+  17: Brave souls wanted for a perilous journey,
+  18: Join our ranks as a trusted party,
+  19: Urgent request from a {race} {title},
+  20: Seeking valiant heroes to accompany,
+  21: In search of capable {race} adventurers,
+  22: A {race} {title} seeks aid from,
+  23: Join the ranks of a renowned {race} {title},
+  24: Skilled individuals for a quest,
+  25: Calling all aspiring heroes,
+  26: Assistance needed from a group of adventurers,
+  27: Join the quest of a {race} {title},
+  28: In search of brave souls to undertake,
+  29: Seeking aid from a skilled party,
+  30: Join forces with a seasoned {race} {title},
+  31: Attention adventurers, an esteemed {race} {title} requires,
+  32: Courageous heroes for an important mission,
+  33: In need of a dedicated group,
+  34: Join our cause as valiant adventurers,
+  35: Urgent quest from a respected {race} {title},
+  36: Seeking capable {race} adventurers to assist,
+  37: A {race} {title} seeks assistance from skilled individuals,
+  38: Join the ranks of a renowned {race} {title} as,
+  39: Adventurers for a challenging quest,
+  40: Calling all brave souls to aid a {race} {title},
+  41: Assistance needed from a group of valiant heroes,
+  42: Join the noble quest of a {race} {title} as,
+  43: In search of courageous adventurers to undertake,
+  44: Seeking aid from a skilled party of {race} adventurers,
+  45: Join forces with a reputable {race} {title} in their quest,
+  46: Heroes to join a {race} {title}'s important mission,
+  47: In need of a dedicated group of {race} adventurers,
+  48: Join our cause as valiant adventurers in service of a {race} {title},
+  49: Urgent quest from a respected {race} {title} seeks,
+  50: Seeking capable {race} adventurers to assist in a crucial task,
+  51: A {race} {title} seeks assistance from skilled individuals for a quest,
+  52: Join the ranks of a renowned {race} {title} as brave adventurers,
+  53: Adventurers for a challenging quest at the behest of a {race} {title},
+  54: Calling all brave souls to aid a {race} {title} on their quest,
+  55: Assistance needed from a group of valiant heroes in service of a {race} {title},
+  56: Join the noble quest of a {race} {title} as courageous adventurers,
+  57: In search of skilled {race} adventurers to undertake a perilous journey,
+  58: Seeking aid from a talented party of {race} adventurers for an important mission,
+  59: Join forces with a reputable {race} {title} in their quest for glory,
+  60: Heroes to join a {race} {title}'s noble mission to protect the realm.
+
+Predicate:
+  1: must
+  2: should
+  3: needs to
+  4: has to
+  5: tasked to
+  6: required to
+  7: responsible for
+  8: obligated to
+  9: instructed to
+  10: ordered to
+  11: compelled to
+  12: bound to
+  13: expected to
+  14: meant to
+  15: destined to
+  16: fated to
+  17: chosen to
+  18: sworn to
+  19: called to
+  20: commanded to
+  21: granted the task to
+  22: given the duty to
+  23: assigned to
+  24: entrusted with
+  25: directed to
+  26: guided to
+  27: led to
+  28: compelled by fate to
+  29: bound by an oath to
+  30: driven by a quest to
+  31: required by a prophecy to
+  32: summoned to
+  33: urged to
+  34: commanded by a higher power to
+  35: destined by ancient lore to
+  36: compelled by a curse to
+  37: guided by visions to
+  38: drawn by a divine calling to
+  39: sent on a mission to
+  40: instructed by a mentor to
+  41: chosen by the gods to
+  42: compelled by a magical artifact to
+  43: bound by a sacred duty to
+  44: fated by the stars to
+  45: ordained by the celestial beings to
+  46: commanded by royal decree to
+  47: directed by a prophecy to
+  48: driven by an ancestral legacy to
+  49: compelled by the forces of nature to
+  50: required by ancient tradition to
+  51: urged by the voice of ancestors to
+  52: bound by a pact to
+  53: guided by the whispers of spirits to
+  54: led by a spirit guide to
+  55: chosen by a magical artifact to
+  56: compelled by a powerful entity to
+  57: driven by a blood oath to
+  58: commanded by a celestial being to
+  59: destined by an ancient prophecy to
+  60: instructed by a divine messenger to
+  61: required by a sacred ritual to
+  62: urged by a cryptic riddle to
+  63: bound by a sacred vow to
+  64: guided by the will of the gods to
+  65: chosen by a sacred relic to
+  66: compelled by a powerful curse to
+  67: directed by a divine intervention to
+  68: driven by a hidden agenda to
+  69: commanded by an immortal being to
+  70: destined by a forgotten prophecy to
+  71: instructed by an ancient tome to
+  72: required by an ancient pact to
+  73: urged by a spectral presence to
+  74: bound by an otherworldly entity to
+  75: guided by an ethereal guardian to
+  76: chosen by an enigmatic artifact to
+  77: compelled by an ancestral curse to
+  78: driven by the whispers of the wind to
+  79: commanded by the hand of destiny to
+  80: destined by the threads of fate to
+  81: instructed by a celestial oracle to
+  82: required by a cosmic event to
+  83: urged by the voice of nature to
+  84: bound by an ancient tradition to
+  85: guided by the light of the moon to
+  86: chosen by the sacred stones to
+  87: compelled by the ancient spirits to
+  88: driven by the echoes of history to
+  89: commanded by the shadowy figure to
+  90: destined by the dance of the stars to
+  91: instructed by the whispers of the sea to
+  92: required by the will of the elements to
+  93: urged by the call of the wild to
+  94: bound by the oath of an ancient order to
+  95: guided by the sacred flame to
+  96: chosen by the mystical rune to
+  97: compelled by the curse of a forgotten god to
+  98: driven by the echoes of a lost civilization to
+  99: commanded by the voice of an ancestral spirit to
+  100: destined by the tapestry of time to
+
+Prepositions:
+  1: in
+  2: to
+  3: from
+  4: through
+  5: with
+  6: on
+  7: at
+  8: by
+  9: for
+  10: about
+  11: of
+  12: within
+  13: without
+  14: under
+  15: over
+  16: around
+  17: above
+  18: below
+  19: among
+  20: between
+  21: beside
+  22: beyond
+  23: near
+  24: far
+  25: against
+  26: towards
+  27: inside
+  28: outside
+  29: across
+  30: along
+  31: during
+  32: despite
+  33: within
+  34: beyond
+  35: behind
+  36: beneath
+  37: above
+  38: underneath
+  39: underneath
+  40: inside
+  41: outside
+  42: behind
+  43: beyond
+  44: along
+  45: towards
+  46: against
+  47: amidst
+  48: among
+  49: beneath
+  50: beside
+  51: inside
+  52: outside
+  53: past
+  54: before
+  55: after
+  56: around
+  57: among
+  58: amid
+  59: alongside
+  60: alongside
+  61: among
+  62: before
+  63: after
+  64: towards
+  65: against
+  66: inside
+  67: outside
+  68: past
+  69: through
+  70: within
+  71: without
+  72: beneath
+  73: above
+  74: around
+  75: beside
+  76: amidst
+  77: among
+  78: past
+  79: beyond
+  80: alongside
+  81: underneath
+  82: inside
+  83: outside
+  84: before
+  85: after
+  86: near
+  87: far
+  88: across
+  89: beyond
+  90: within
+  91: without
+  92: against
+  93: towards
+  94: between
+  95: among
+  96: amidst
+  97: alongside
+  98: underneath
+  99: around
+  100: past
+
+Object:
+  Direct:
+    1: monster
+    2: artifact
+    3: treasure
+    4: relic
+    5: dungeon
+    6: curse
+    7: book
+    8: weapon
+    9: key
+    10: gem
+    11: map
+    12: potion
+    13: scroll
+    14: ring
+    15: amulet
+    16: armor
+    17: shield
+    18: spellbook
+    19: idol
+    20: crystal
+    21: statue
+    22: mask
+    23: scepter
+    24: crown
+    25: goblet
+    26: horn
+    27: lantern
+    28: chalice
+    29: staff
+    30: bow
+    31: quiver
+    32: glove
+    33: cloak
+    34: robe
+    35: talisman
+    36: orb
+    37: talon
+    38: blade
+    39: shield
+    40: insignia
+    41: hammer
+    42: mirror
+    43: crystal ball
+    44: wand
+    45: gauntlet
+    46: necklace
+    47: statue
+    48: feather
+    49: horn
+    50: whip
+    51: coin
+    52: goblet
+    53: candle
+    54: crown
+    55: gemstone
+    56: potion
+    57: book
+    58: grimoire
+    59: scroll
+    60: tablet
+    61: rune
+    62: sigil
+    63: mask
+    64: medallion
+    65: vial
+    66: scepter
+    67: relic
+    68: idol
+    69: crystal
+    70: gem
+    71: tome
+    72: key
+    73: trinket
+    74: figurine
+    75: dagger
+    76: sword
+    77: bow
+    78: arrow
+    79: lance
+    80: mace
+    81: staff
+    82: club
+    83: scythe
+    84: axe
+    85: shield
+    86: armor
+    87: helmet
+    88: gauntlet
+    89: boot
+    90: robe
+    91: cloak
+    92: amulet
+    93: ring
+    94: belt
+    95: bracer
+    96: necklace
+    97: talisman
+    98: mask
+    99: figurine
+    100: statue
+
+Object:
+  Indirect:
+    1: village
+    2: kingdom
+    3: city
+    4: guild
+    5: tribe
+    6: faction
+    7: castle
+    8: fortress
+    9: town
+    10: hamlet
+    11: outpost
+    12: temple
+    13: shrine
+    14: monastery
+    15: cathedral
+    16: library
+    17: university
+    18: tavern
+    19: inn
+    20: market
+    21: bazaar
+    22: harbor
+    23: port
+    24: shipyard
+    25: dock
+    26: farm
+    27: field
+    28: bridge
+    29: river
+    30: lake
+    31: island
+    32: shore
+    33: beach
+    34: coast
+    35: ship
+    36: boat
+    37: caravan
+    38: road
+    39: path
+    40: trail
+    41: mine
+    42: quarry
+    43: dungeon
+    44: labyrinth
+    45: portal
+    46: gate
+    47: abyss
+    48: rift
+    49: forest
+    50: mountain
+    51: tomb
+    52: graveyard
+    53: ruins
+    54: palace
+    55: mansion
+    56: tower
+    57: keep
+    58: battlefield
+    59: arena
+    60: library
+    61: study
+    62: laboratory
+    63: sanctuary
+    64: school
+    65: theater
+    66: gallery
+    67: museum
+    68: market
+    69: plaza
+    70: garden
+    71: park
+    72: zoo
+    73: mine
+    74: factory
+    75: workshop
+    76: inn
+    77: tavern
+    78: pub
+    79: brewery
+    80: distillery
+    81: casino
+    82: brothel
+    83: prison
+    84: asylum
+    85: hospital
+    86: orphanage
+    87: temple
+    88: shrine
+    89: church
+    90: cathedral
+    91: monastery
+    92: convent
+    93: mosque
+    94: synagogue
+    95: graveyard
+    96: cemetery
+    97: mausoleum
+    98: catacombs
+    99: observatory
+    100: clocktower
+
+Adjective:
+  1: ancient
+  2: mysterious
+  3: enchanted
+  4: cursed
+  5: dangerous
+  6: forbidden
+  7: powerful
+  8: legendary
+  9: heroic
+  10: magical
+  11: treacherous
+  12: elusive
+  13: fearless
+  14: sacred
+  15: shadowy
+  16: valiant
+  17: forgotten
+  18: epic
+  19: mythical
+  20: perilous
+  21: resilient
+  22: ethereal
+  23: relentless
+  24: formidable
+  25: righteous
+  26: sinister
+  27: vigilant
+  28: enigmatic
+  29: wise
+  30: ferocious
+  31: fabled
+  32: intrepid
+  33: shadowed
+  34: arcane
+  35: illustrious
+  36: elusive
+  37: haunted
+  38: noble
+  39: gallant
+  40: radiant
+  41: valorous
+  42: potent
+  43: mystical
+  44: majestic
+  45: celestial
+  46: resolute
+  47: formidable
+  48: sublime
+  49: grand
+  50: legendary
+  51: seasoned
+  52: indomitable
+  53: mythical
+  54: ancient
+  55: honorable
+  56: fearless
+  57: skilled
+  58: wise
+  59: sagacious
+  60: cunning
+  61: swift
+  62: agile
+  63: sturdy
+  64: resolute
+  65: fearless
+  66: bold
+  67: daring
+  68: valiant
+  69: relentless
+  70: vigilant
+  71: ferocious
+  72: savage
+  73: ruthless
+  74: stealthy
+  75: shadowy
+  76: enigmatic
+  77: mysterious
+  78: arcane
+  79: forbidden
+  80: sacred
+  81: holy
+  82: cursed
+  83: twisted
+  84: eerie
+  85: otherworldly
+  86: ethereal
+  87: resilient
+  88: resilient
+  89: enduring
+  90: stalwart
+  91: steadfast
+  92: indomitable
+  93: tenacious
+  94: valiant
+  95: legendary
+  96: heroic
+  97: resplendent
+  98: glorious
+  99: peerless
+  100: invincible
+
+Adverb:
+  1: boldly
+  2: bravely
+  3: stealthily
+  4: cunningly
+  5: wisely
+  6: swiftly
+  7: cautiously
+  8: fiercely
+  9: skillfully
+  10: determinedly
+  11: elegantly
+  12: patiently
+  13: subtly
+  14: resolutely
+  15: fiercely
+  16: gracefully
+  17: vigilantly
+  18: quietly
+  19: deftly
+  20: passionately
+  21: valiantly
+  22: masterfully
+  23: dexterously
+  24: nobly
+  25: gallantly
+  26: steadily
+  27: unwaveringly
+  28: diligently
+  29: swiftly
+  30: boldly
+  31: decisively
+  32: resourcefully
+  33: judiciously
+  34: intrepidly
+  35: astutely
+  36: sagely
+  37: resolutely
+  38: audaciously
+  39: sagaciously
+  40: cautiously
+  41: shrewdly
+  42: fiercely
+  43: skillfully
+  44: dexterously
+  45: stealthily
+  46: wisely
+  47: gallantly
+  48: masterfully
+  49: deftly
+  50: passionately
+  51: valiantly
+  52: diligently
+  53: decisively
+  54: judiciously
+  55: resourcefully
+  56: astutely
+  57: sagely
+  58: audaciously
+  59: sagaciously
+  60: cunningly
+  61: elegantly
+  62: patiently
+  63: subtly
+  64: resolutely
+  65: fiercely
+  66: gracefully
+  67: vigilantly
+  68: quietly
+  69: deftly
+  70: passionately
+  71: valiantly
+  72: masterfully
+  73: dexterously
+  74: nobly
+  75: gallantly
+  76: steadily
+  77: unwaveringly
+  78: diligently
+  79: swiftly
+  80: boldly
+  81: decisively
+  82: resourcefully
+  83: judiciously
+  84: intrepidly
+  85: astutely
+  86: sagely
+  87: resolutely
+  88: audaciously
+  89: sagaciously
+  90: cautiously
+  91: shrewdly
+  92: fiercely
+  93: skillfully
+  94: dexterously
+  95: stealthily
+  96: wisely
+  97: gallantly
+  98: masterfully
+  99: deftly
+  100: passionately
+
+Noun:
+  Person:
+    1: Master
+    2: Mistress
+    3: Matron
+    4: Patron
+    5: Elder
+    6: Lord
+    7: Lady
+    8: Duke
+    9: Duchess
+    10: Earl
+    11: Countess
+    12: Marquess
+    13: Marchioness
+    14: Viscount
+    15: Viscountess
+    16: High Priestess
+    17: Magi
+    18: Baron
+    19: Baroness
+    20: Prince
+    21: Princess
+    22: Queen
+    23: King
+    24: Emperor
+    25: Empress
+    26: Peasant
+    27: Townsperson
+    28: Villager
+    29: Doctor
+    30: Shaman
+    31: Acolyte
+    32: Anthropologist
+    33: Archaeologist
+    34: Astral Drifter
+    35: Athlete
+    36: Azorius Functionary
+    37: Boros Legionnaire
+    38: Celebrity Adventurer's Scion
+    39: Charlatan
+    40: City Watch
+    41: Investigator
+    42: Clan Crafter
+    43: Cloistered Scholar
+    44: Courtier
+    45: Criminal
+    46: Spy
+    47: Dimir Operative
+    48: Entertainer
+    49: Faceless
+    50: Faction Agent
+    51: Failed Merchant
+    52: Far Traveler
+    53: Feylost
+    54: Fisher
+    55: Folk Hero
+    56: Gambler
+    57: Gladiator
+    58: Golgari Agent
+    59: Grinner
+    60: Gruul Anarch
+    61: Guild Artisan
+    62: Guild Merchant
+    63: Haunted One
+    64: Hermit
+    65: House Agent
+    66: Inheritor
+    67: Engineer
+    68: Knight
+    69: Knight of the Order
+    70: Lorehold Student
+    71: Marine
+    72: Mercenary
+    73: Mercenary Veteran
+    74: Nobleman
+    75: Noblewoman
+    76: Outlander
+    77: Pirate
+    78: Plaintiff
+    79: Prismari Student
+    80: Quandrix Student
+    81: Intern
+    82: Sage
+    83: Sailor
+    84: Shipwright
+    85: Silverquill Student
+    86: Simic Scientist
+    87: Smuggler
+    88: Soldier
+    89: Bounty Hunter
+    90: Urban Bounty Hunter
+    91: Urchin
+    92: Wildspacer
+    93: Witchlight Hand
+    94: Witherbloom Student
+    95: Barbarian
+    96: Bard
+    97: Cleric
+    98: Druid
+    99: Fighter
+    100: Monk
+
+Place:
+  1: Enchanted Garden
+  2: Dungeon
+  3: Castle
+  4: Cave
+  5: Tower
+  6: River
+  7: Lake
+  8: Island
+  9: Tower
+  10: Valley
+  11: Village
+  12: Town
+  13: City
+  14: Port
+  15: Harbor
+  16: Temple
+  17: Shrine
+  18: Cemetery
+  19: Graveyard
+  20: Crypt
+  21: Catacombs
+  22: Abyss
+  23: Abyssal Plane
+  24: Infernal Plane
+  25: Celestial Plane
+  26: Elemental Plane
+  27: Feywild
+  28: Shadowfell
+  29: Underworld
+  30: Underwater Cave
+  31: Underwater City
+  32: Underwater Ruins
+  33: Volcano
+  34: Glacier
+  35: Waterfall
+  36: Oasis
+  37: Wasteland
+  38: Canyon
+  39: Gorge
+  40: Ravine
+  41: Plateau
+  42: Grove
+  43: Orchard
+  44: Vineyard
+  45: Swampy Marsh
+  46: Mysterious Moor
+  47: Tundra
+  48: Floating Island
+  49: Sky Citadel
+  50: Crystal Caverns
+  51: Labyrinth
+  52: Library
+  53: Observatory
+  54: University
+  55: Wizard's Tower
+  56: Sorcerer's Retreat
+  57: Druidic Grove
+  58: Monastery
+  59: Abandoned Mine
+  60: Sunken Ship
+  61: Astral Realm
+  62: Spirit Realm
+  63: Fey Enclave
+  64: Elemental Sanctum
+  65: Giant's Rest
+  66: Dwarven Stronghold
+  67: Elven Enclave
+  68: Gnomish Workshop
+  69: Halfling Shire
+  70: Orcish Encampment
+  71: Goblin Hideout
+  72: Kobold Lair
+  73: Dragon's Roost
+  74: Demon's Den
+  75: Angelic Sanctuary
+  76: Beastmen's Territory
+  77: Avian Aerie
+  78: Undead Necropolis
+  79: Ancient Battlefield
+  80: Enchanted Garden
+  81: Fey Crossing
+  82: Elemental Confluence
+  83: Dragonborn City
+  84: Tiefling Outpost
+  85: Aarakocra Nest
+  86: Warforged Factory
+  87: Lizardfolk Marsh
+  88: Kenku Roost
+  89: Tabaxi Hunting Grounds
+  90: Aasimar Sanctum
+  91: Minotaur Labyrinth
+  92: Goliath Stronghold
+  93: Firbolg Grove
+  94: Triton Kingdom
+  95: Genasi Oasis
+  96: Yuan-ti Temple
+  97: Githzerai Monastery
+  98: Kobold Dragon Shrine
+  99: Mind Flayer Colony
+  100: Beholder's Lair
+
+Thing:
+  1: Potion
+  2: Amulet
+  3: Ring
+  4: Scroll
+  5: Wand
+  6: Staff
+  7: Dagger
+  8: Sword
+  9: Bow
+  10: Shield
+  11: Armor
+  12: Robe
+  13: Helmet
+  14: Gauntlet
+  15: Boots
+  16: Cloak
+  17: Book
+  18: Tome
+  19: Journal
+  20: Map
+  21: Compass
+  22: Key
+  23: Chest
+  24: Bag
+  25: Gemstone
+  26: Crystal
+  27: Idol
+  28: Relic
+  29: Artifact
+  30: Talisman
+  31: Trinket
+  32: Necklace
+  33: Medallion
+  34: Bracelet
+  35: Orb
+  36: Scroll Case
+  37: Quill
+  38: Belt
+  39: Pouch
+  40: Horn
+  41: Mask
+  42: Lantern
+  43: Mirror
+  44: Hourglass
+  45: Scepter
+  46: Chalice
+  47: Gloves
+  48: Harp
+  49: Drum
+  50: Telescope
+  51: Shield
+  52: Tapestry
+  53: Banner
+  54: Rod
+  55: Crown
+  56: Amulet
+  57: Crystal Ball
+  58: Pendant
+  59: Statue
+  60: Vial
+  61: Rune
+  62: Coin
+  63: Glyph
+  64: Feather
+  65: Quiver
+  66: Scroll Tube
+  67: Locket
+  68: Dice
+  69: Lantern
+  70: Mirror
+  71: Bag of Holding
+  72: Horn
+  73: Mask
+  74: Bookshelf
+  75: Tapestry
+  76: Candelabra
+  77: Scepter
+  78: Crown
+  79: Crystal Shard
+  80: Idol
+  81: Relic
+  82: Gem
+  83: Figurine
+  84: Chalice
+  85: Elixir
+  86: Trinket
+  87: Rune Stone
+  88: Keychain
+  89: Musical Instrument
+  90: Telescope
+  91: Spyglass
+  92: Perfume Bottle
+  93: Inkwell
+  94: Quill
+  95: Coffer
+  96: Wand
+  97: Candle
+  98: Statue
+  99: Compass
+  100: Pocket Watch
